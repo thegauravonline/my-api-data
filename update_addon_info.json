@@ -1,0 +1,17 @@
+{
+    "status": true,
+    "addons": [
+        {
+            "name": "SMS Module",
+            "current_version": "1.0",
+            "latest_version": "1.1",
+            "update_available": true
+        },
+        {
+            "name": "Payment Gateway",
+            "current_version": "2.0",
+            "latest_version": "2.0",
+            "update_available": false
+        }
+    ]
+}
