@@ -1,0 +1,10 @@
+{
+    "status": true,
+    "version": "7.0.0",
+    "files": [
+        "application/controllers/Home.php",
+        "application/models/User_model.php",
+        "application/views/dashboard.php"
+    ],
+    "download_url": "https://raw.githubusercontent.com/thegauravonline/my-update-server/main/versions/7.0.0.zip"
+}
