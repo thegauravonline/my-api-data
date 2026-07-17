@@ -1,0 +1,8 @@
+{
+    "status": true,
+    "current_version": "6.9.0",
+    "latest_version": "7.0.0",
+    "update_available": true,
+    "message": "New version available",
+    "update_file": "https://raw.githubusercontent.com/thegauravonline/my-update-server/main/versions/7.0.0.zip"
+}
